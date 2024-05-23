@@ -1,0 +1,12 @@
+#track-text{
+    color:white;
+    text-align:center;
+}
+#track-text button{
+    color:white;
+    background-color:steelblue;
+    margin:10px;
+    width:120px;
+    height:70px;
+    display:inline-block;
+}
